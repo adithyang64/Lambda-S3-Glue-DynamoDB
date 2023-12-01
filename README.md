@@ -28,3 +28,5 @@ glue_to_dynamodb_ingestion.py
 ## Scope of Improvement
 
 The project can be enhanced by transitioning from a mock data generation approach to utilizing a real-time dataset. This improvement will ensure that the project operates with relevant information, leading to more accurate and valuable results.
+
+[Refer the Link for collection of screenshots captured during the project execution](https://docs.google.com/document/d/1QX4ry7Vg1zIpWTPB_BjGZJ5N4lsH0zFA/edit?usp=drive_link&ouid=102047065766224889946&rtpof=true&sd=true)
